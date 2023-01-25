@@ -1,0 +1,13 @@
+.main_container {
+  height: 100vh;
+  /* padding: 25px; */
+  background-color: black;
+}
+h1 {
+  padding: 20px;
+  text-align: center;
+}
+input{
+  text-align: center;
+}
+
